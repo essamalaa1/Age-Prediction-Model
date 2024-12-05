@@ -1,3 +1,3 @@
 # Age-Prediction-Model
 This AI model is a custom-designed architecture for age prediction from facial images, using the UTKFace dataset with over 21,000 images and age labels. Implemented in PyTorch, the model incorporates the idea of skip connections to improve learning efficiency and performance. It is trained for a regression task with Mean Absolute Error (MAE) as the evaluation metric, achieving an MAE of 5.8, indicating an average error of 5.8 years in age prediction. The model utilizes convolutional neural networks (CNNs) to analyze facial features, making it well-suited for applications like demographic analysis and age-based marketing.
-![Alt text](https://github.com/essamalaa1/Food-101/blob/main/Image.png)
+![Alt text](https://github.com/essamalaa1/Age-Prediction-Model/blob/main/Image.png)
